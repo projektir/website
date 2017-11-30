@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["AmbientColor","The ambient color of a scene"],["ScreenDimensions","World resource that stores screen dimensions."],["WindowMessages","This specs resource with id 0 permits sending commands to the renderer internal window."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["create_render_system","Create render system"]],"struct":[["RenderBundle","Rendering bundle"]]});

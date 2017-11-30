@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["vertex_data","Construct new vertex data from raw data and vertex format"]],"struct":[["Mesh","Represents a polygonal mesh."],["MeshBuilder","Builds new meshes."],["VertexBuffer","Raw buffer with its attributes"]],"type":[["MeshHandle","A handle to a mesh."]]});

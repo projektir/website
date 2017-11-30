@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ImageError","Error."]],"struct":[["BmpFormat","Allows loading of BMP files."],["ImageData","ImageData provided by formats, can be interpreted as a texture."],["JpgFormat","Allows loading of jpg or jpeg files."],["PngFormat","Allows loading of PNG files."]],"type":[["ImageFuture","A future which will eventually have an image available."]]});

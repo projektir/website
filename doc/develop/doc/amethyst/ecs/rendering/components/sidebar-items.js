@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["LightComponent","Wraps `Light` into component"],["MeshComponent","Represents a polygonal mesh."],["TextureComponent","Handle to a GPU texture resource."]]});

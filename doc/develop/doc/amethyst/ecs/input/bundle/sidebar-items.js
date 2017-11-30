@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["InputBundle","Bundle for adding the `InputHandler`."]]});

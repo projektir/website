@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["duration_to_nanos","Converts a Duration to nanoseconds"],["duration_to_secs","Converts a Duration to the time in seconds."]]});
